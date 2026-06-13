@@ -11,12 +11,12 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
 LushStories
 Minecraft
-OurDJTalk
 Patched
 Rarible
 Realmeye
@@ -28,6 +28,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
 Weblate
